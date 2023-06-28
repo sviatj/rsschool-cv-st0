@@ -51,5 +51,37 @@ return +n.toString(2);
 ```
 ********* *********
 
+### Courses:
++ [Code Basics - HTML & CSS](https://code-basics.com/ru/languages/html) (completed)
++ [Code Basics - Javascript for beginners](https://code-basics.com/ru/languages/javascript) (in progress)
++ Books - https://learn.javascript.ru/ (in progress)
+
+
+********* *********
+
+
+### Projects:
+CV - current project
+
+
+********* *********
+
+
+### Education:
+
+
+Minsk State Linguistic University
+
+
+Faculty: interpreter (English/Swedish)
+
+
+********* *********
+
+
+### English:
+
+
+C1 - Advanced
 
 
